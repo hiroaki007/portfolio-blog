@@ -1,0 +1,21 @@
+[
+    {
+      "id": "portfolio-site",
+      "title": "ポートフォリオサイト",
+      "description": "Next.js + Tailwind CSS で作成したポートフォリオサイト",
+      "image": "/images/portfolio.jpg",
+      "url": "https://myportfolio.com",
+      "github": "https://github.com/myrepo/portfolio",
+      "tags": ["Next.js", "Tailwind CSS", "TypeScript"]
+    },
+    {
+      "id": "blog-platform",
+      "title": "ブログプラットフォーム",
+      "description": "MDXとNext.jsを活用したブログプラットフォーム",
+      "image": "/images/blog.jpg",
+      "url": "https://myblog.com",
+      "github": "https://github.com/myrepo/blog",
+      "tags": ["Next.js", "MDX", "Vercel"]
+    }
+  ]
+  

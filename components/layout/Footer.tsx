@@ -14,7 +14,6 @@ export default function Footer() {
         const month = String(today.getMonth() + 1).padStart(2, "0"); // `getMonth()` は 0 (1月) から始まるため +1
         const day = String(today.getDate()).padStart(2, "0");
 
-
         setDate(`${year}年${month}月${day}日`);
 
     }, []);
