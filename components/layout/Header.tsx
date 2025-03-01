@@ -55,7 +55,7 @@ export default function Header() {
                         <nav className="flex flex-col items-center space-y-4 py-6 list-none">
                             <li><Link href="/blog" className="hover:text-blue-500 transition" onClick={() => setIsOpen(false)}>Blog</Link></li>
                             <li><Link href="/portfolio" className="hover:text-blue-500 transition" onClick={() => setIsOpen(false)}>PortFolio</Link></li>
-                            <li><Link href="/about" className="hover:text-blue-500 transition" onClick={() => setIsOpen(false)}>About"</Link></li>
+                            <li><Link href="/about" className="hover:text-blue-500 transition" onClick={() => setIsOpen(false)}>About</Link></li>
                             <li><Link href="/contact" className="hover:text-blue-500 transition" onClick={() => setIsOpen(false)}>Contact</Link></li>
                         </nav>
                         
