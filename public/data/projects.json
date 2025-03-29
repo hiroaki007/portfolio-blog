@@ -18,7 +18,7 @@
       "tags": ["Next.js", "MDX", "Vercel"]
     },
     {
-      "id": "SPA-platform",
+      "id": "spa-platform",
       "title": "管理画面",
       "description": "Reactを活用した管理画面",
       "image": "/images/blog.jpg",
