@@ -16,6 +16,15 @@
       "url": "https://myblog.com",
       "github": "https://github.com/myrepo/blog",
       "tags": ["Next.js", "MDX", "Vercel"]
+    },
+    {
+      "id": "SPA-platform",
+      "title": "管理画面",
+      "description": "Reactを活用した管理画面",
+      "image": "/images/blog.jpg",
+      "url": "https://spa-react-project.vercel.app/",
+      "github": "https://github.com/hiroaki007/spa-react",
+      "tags": ["React.js", "Vercel"]
     }
   ]
   

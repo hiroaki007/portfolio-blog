@@ -68,7 +68,7 @@ export default function Portfolio() {
 
     return (
         <motion.section 
-            className="container mx-auto py-10"
+            className="container mx-auto py-10 my-10"
             initial= {{ opacity: 0, y: 20}}
             animate= {{ opacity: 1, y: 0}}
             transition={{ duration: 0.6}}

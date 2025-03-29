@@ -33,7 +33,7 @@ export default function Home() {
 
   return (
     <motion.section
-      className="container mx-auto py-10 px-4"
+      className="container mx-auto py-10 px-4 my-8"
       initial= {{opacity: 0, y: 20}}
       animate= {{opacity: 1, y: 0}}
       transition={{ duration: 0.4 }}
