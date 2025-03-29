@@ -79,7 +79,7 @@ export default function Home() {
                 </p>
 
                 <div className="mt-4 flex justify-between items-center">
-                  <Link href={`/Portfolio/${project.id}`}
+                  <Link href={`/portfolio/${project.id}`}
                     className="text-blue-500 hover:underline"
                   >
                     詳細を見る
@@ -100,7 +100,7 @@ export default function Home() {
         
         {/* {もっとみるボタン} */}
         <div className="text-center mt-10">
-          <Link href="/Portfolio"
+          <Link href="/portfolio"
                 className="bg-blue-600 text-white px-6 py-3 rounded-md font-semibold hover:bg-blue-500 transition"
           >
             もっと見る →
